@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "ai.buykin.pourover",
+  "name": "Pour Over",
+  "version": "1.0.0",
+  "api_version": "27.12.0",
+  "description": "A timer for people who like making coffee, with pour cues and scale targets for V60 and Kalita Wave.",
+  "author": "Dmitry",
+  "heap_size_kib": 128
+}

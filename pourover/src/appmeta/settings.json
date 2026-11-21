@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "sound": {
+      "type": "boolean",
+      "label": "Sounds",
+      "description": "Pour, stop, step and completion cues. Off silences all sounds.",
+      "default": true
+    },
+    "units": {
+      "type": "enum",
+      "label": "Water temperature",
+      "description": "How the recipe's water temperature is shown.",
+      "default": "celsius",
+      "options": [
+        {
+          "value": "celsius",
+          "label": "Celsius"
+        },
+        {
+          "value": "fahrenheit",
+          "label": "Fahrenheit"
+        }
+      ]
+    },
+    "count_beeps": {
+      "type": "boolean",
+      "label": "Count beeps",
+      "description": "Three short ticks before a pour window closes.",
+      "default": true
+    },
+    "light_cues": {
+      "type": "boolean",
+      "label": "Light cues",
+      "description": "Status-light cues for steps, pour stops and a completed brew.",
+      "default": true
+    }
+  }
+}

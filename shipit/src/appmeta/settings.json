@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "sound": {
+      "type": "boolean",
+      "label": "Sounds",
+      "description": "Countdown, launch and outcome cues.",
+      "default": true
+    },
+    "risks": {
+      "type": "boolean",
+      "label": "Launch risks",
+      "description": "Allow fictional flaky tests and canary failures. Off removes those risks.",
+      "default": true
+    },
+    "light_cues": {
+      "type": "boolean",
+      "label": "Light cues",
+      "description": "Brief status-light cues for important app events.",
+      "default": true
+    }
+  }
+}

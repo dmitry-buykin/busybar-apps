@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "ai.buykin.oracle",
+  "name": "Oracle",
+  "version": "1.0.0",
+  "api_version": "27.12.0",
+  "description": "Draw one card for a change of perspective, from Latin and Stoic sayings to engineering and applied AI.",
+  "author": "Dmitry",
+  "heap_size_kib": 128
+}

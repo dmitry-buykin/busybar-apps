@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "sound": {
+      "type": "boolean",
+      "label": "Sounds",
+      "description": "Result ding and quiet navigation clicks.",
+      "default": true
+    },
+    "ticks": {
+      "type": "boolean",
+      "label": "Reel ticks",
+      "description": "Soft reel ticks while options pass the pointer; requires Sounds on.",
+      "default": true
+    },
+    "light_cues": {
+      "type": "boolean",
+      "label": "Light cues",
+      "description": "Brief status-light cues for important app events.",
+      "default": true
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "sound": {
+      "type": "boolean",
+      "label": "Sounds",
+      "description": "Manual draw shuffle/chime and quiet deck clicks. Automatic cards are silent.",
+      "default": true
+    },
+    "auto": {
+      "type": "enum",
+      "label": "Automatic draw",
+      "description": "Silently draw a new card from the current deck after this interval.",
+      "default": "m5",
+      "options": [
+        {
+          "value": "off",
+          "label": "Off"
+        },
+        {
+          "value": "m5",
+          "label": "5 min"
+        },
+        {
+          "value": "m15",
+          "label": "15 min"
+        },
+        {
+          "value": "m60",
+          "label": "60 min"
+        }
+      ]
+    },
+    "pace": {
+      "type": "enum",
+      "label": "Reading pace",
+      "description": "How long a readable card page stays before the next.",
+      "default": "normal",
+      "options": [
+        {
+          "value": "slow",
+          "label": "Slow"
+        },
+        {
+          "value": "normal",
+          "label": "Normal"
+        },
+        {
+          "value": "quick",
+          "label": "Quick"
+        }
+      ]
+    }
+  }
+}

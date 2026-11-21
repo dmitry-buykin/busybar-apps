@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "ai.buykin.duck",
+  "name": "Rubber Duck",
+  "version": "1.0.0",
+  "api_version": "27.12.0",
+  "description": "A rubber duck that asks a useful question when you and your AI coding agents get stuck.",
+  "author": "Dmitry",
+  "heap_size_kib": 128
+}

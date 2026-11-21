@@ -1,0 +1,48 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "sound": {
+      "type": "boolean",
+      "label": "Sounds",
+      "description": "Question quacks and quiet navigation clicks.",
+      "default": true
+    },
+    "quack": {
+      "type": "enum",
+      "label": "Quacks",
+      "description": "Quack on each first-pass phrase, or only at the start of a question or explanation.",
+      "default": "phrase",
+      "options": [
+        {
+          "value": "phrase",
+          "label": "Every phrase"
+        },
+        {
+          "value": "question",
+          "label": "Once per question"
+        }
+      ]
+    },
+    "pace": {
+      "type": "enum",
+      "label": "Reading pace",
+      "description": "How long a readable question page stays before the next.",
+      "default": "normal",
+      "options": [
+        {
+          "value": "slow",
+          "label": "Slow"
+        },
+        {
+          "value": "normal",
+          "label": "Normal"
+        },
+        {
+          "value": "quick",
+          "label": "Quick"
+        }
+      ]
+    }
+  }
+}
