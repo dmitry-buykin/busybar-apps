@@ -2,9 +2,9 @@
 
 I still reach for the duck when my agents and I get stuck. One good question can get us to say out loud what we’ve been assuming.
 
-![Rubber Duck: three moments of the front screen, one above another](preview/screens.gif)
+![Rubber Duck front display. A deck for each moment of work. Start asks the next question. OK explains why, and what to do.](preview/screens.png)
 
-*1. A deck for each moment of work · 2. Start asks the next question · 3. OK explains why, and what to do*
+[Watch the animated preview](preview/screens.gif)
 
 An animated rubber duck that asks a pointed question while you work with AI coding agents. Use it to clarify a brief, get unstuck or check a change before approving it.
 
@@ -28,4 +28,4 @@ A rubber duck that asks one written question for the moment you are in with an A
 
 The back shows the deck, the place in it, the whole question and its explanation. Settings: sounds, a quack on every phrase or once per question, and the reading pace. Each deck remembers your place. The duck does not read code, call a model or judge answers.
 
-The picture above is the app's own front screen, 72 by 16 LEDs, recorded in a simulator and drawn as LEDs: a render, not a photograph of the bar.
+The previews show the app's front display, recorded in a simulator and rendered as LEDs.

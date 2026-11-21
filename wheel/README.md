@@ -2,9 +2,9 @@
 
 Some decisions take longer to talk through than to try. I wanted a quick way to pick lunch, choose a break or decide what to tackle first.
 
-![Decision Wheel: three moments of the front screen, one above another](preview/screens.gif)
+![Decision Wheel front display. Coin, dice and who pays. Decide: yes, no, ship it. Focus, coffee and lunch decks.](preview/screens.png)
 
-*1. Coin, dice and who pays · 2. Decide: yes, no, ship it · 3. Focus, coffee and lunch decks*
+[Watch the animated preview](preview/screens.gif)
 
 Make a small decision with a colorful spinning reel. Choose a deck, spin it and see the result settle beneath the pointer.
 
@@ -27,4 +27,4 @@ A slot reel for small decisions. Ten decks: Decide (yes, no, not yet, sleep on i
 
 The back shows the options, the odds where a deck is weighted (in Decide, yes and no count double), a tally and recent results. The app remembers the last result of every deck. Reel ticks, the result sound and the status light are settings.
 
-The picture above is the app's own front screen, 72 by 16 LEDs, recorded in a simulator and drawn as LEDs: a render, not a photograph of the bar.
+The previews show the app's front display, recorded in a simulator and rendered as LEDs.

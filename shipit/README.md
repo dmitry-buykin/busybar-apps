@@ -2,9 +2,9 @@
 
 I wanted a small way to mark the moment a piece of work leaves my desk. A rocket launch felt like a good reason to look up and enjoy being done.
 
-![Ship It!: three moments of the front screen, one above another](preview/screens.gif)
+![Ship It! front display. Choose a target, or roll back. Countdown, liftoff, shipped. Friday: a flaky test, then shipped.](preview/screens.png)
 
-*1. Choose a target, or roll back · 2. Countdown, liftoff, shipped · 3. Friday: a flaky test, then shipped*
+[Watch the animated preview](preview/screens.gif)
 
 Celebrate finishing work with a miniature rocket launch. Pick a simulated deployment target, press Start and watch the countdown, ignition and liftoff.
 
@@ -28,4 +28,4 @@ A launch button for finished work. Pick a target, press Start and watch a three-
 
 The back is a deploy console with the launch log, the last five launches, the shipped count and the daily streak. Launch risks, sounds and the status light can be switched off. Nothing is deployed anywhere: every line of the log is fiction.
 
-The picture above is the app's own front screen, 72 by 16 LEDs, recorded in a simulator and drawn as LEDs: a render, not a photograph of the bar.
+The previews show the app's front display, recorded in a simulator and rendered as LEDs.

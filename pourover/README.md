@@ -2,9 +2,9 @@
 
 I like making coffee. I wanted something on the counter that could keep time and show me the next pour while I’m holding the kettle.
 
-![Pour Over: three moments of the front screen, one above another](preview/screens.gif)
+![Pour Over front display. Choose a recipe and a dose. Each step has its picture and cue. Drawdown, then enjoy.](preview/screens.png)
 
-*1. Choose a recipe and a dose · 2. Each step has its picture and cue · 3. Drawdown, then enjoy*
+[Watch the animated preview](preview/screens.gif)
 
 A brew timer for V60 and Kalita Wave. Choose a recipe and coffee dose, then follow timed steps and cumulative scale targets.
 
@@ -28,4 +28,4 @@ A brew timer for the V60 and the Kalita Wave. Choose one of 11 recipes (the Coff
 
 The back shows the recipe card (dose, water, temperature, grind), the full instruction, the next step, and actual against planned time at the end. A pour cue, three ticks before a pour closes and a reversed cue for “stop pouring” can be switched off; temperature reads in Celsius or Fahrenheit. It reads no scale or thermometer: the presets are timer adaptations of published methods.
 
-The picture above is the app's own front screen, 72 by 16 LEDs, recorded in a simulator and drawn as LEDs: a render, not a photograph of the bar.
+The previews show the app's front display, recorded in a simulator and rendered as LEDs.

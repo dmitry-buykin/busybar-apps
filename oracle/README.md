@@ -2,9 +2,9 @@
 
 I liked the idea of a desk ritual that starts with one card. A good question or an old saying can send my train of thought somewhere new.
 
-![Oracle: three moments of the front screen, one above another](preview/screens.gif)
+![Oracle front display. Today's card and its meaning. Press to draw another card. Seven decks on the wheel.](preview/screens.png)
 
-*1. Today's card and its meaning · 2. Press to draw another card · 3. Seven decks on the wheel*
+[Watch the animated preview](preview/screens.gif)
 
 A daily card for your desk, with a line to think about when you want a change of perspective. Each deck opens on its card of the day, and OK or Start draws another.
 
@@ -26,4 +26,4 @@ One card for the desk. Seven decks hold 217 cards: Latin sayings, Stoic thoughts
 
 The back shows the full text and its source. Turning the wheel through the decks plays a small scale on a wooden mallet. Settings: sounds, an automatic draw every 5, 15 or 60 minutes, and the reading pace.
 
-The picture above is the app's own front screen, 72 by 16 LEDs, recorded in a simulator and drawn as LEDs: a render, not a photograph of the bar.
+The previews show the app's front display, recorded in a simulator and rendered as LEDs.

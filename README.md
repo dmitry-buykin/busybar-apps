@@ -2,6 +2,8 @@
 
 Five small apps for the BUSY Bar. Each app can be built on its own.
 
+![Five BUSY Bar apps. Brew timer, rubber duck prompt, rocket countdown, decision reel and daily card.](preview/first-sunday.png)
+
 | App | What it does |
 | --- | --- |
 | [Pour Over](pourover/README.md) | A V60 and Kalita Wave brew timer with animated pour guides |
